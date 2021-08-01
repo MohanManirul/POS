@@ -1,0 +1,21 @@
+
+.load{
+    position: fixed;
+    left: 40%;
+    text-align: center;
+    top: 35%;
+    z-index: 9999;
+    margin: auto;	
+    display: none;		
+	}
+
+.load img{
+    position: fixed;
+    left: 35%;
+    text-align: center;
+    top: 35%;
+    z-index: 9999;
+    margin: auto;			
+	}
+        
+
